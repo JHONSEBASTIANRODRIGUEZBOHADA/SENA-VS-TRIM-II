@@ -1,0 +1,15 @@
+C:\Users\jhon sebastian\Documents\SENA C#\diagrama_clases\obj\Debug\net6.0\Ejercicio_Vehiculos.csproj.AssemblyReference.cache
+C:\Users\jhon sebastian\Documents\SENA C#\diagrama_clases\obj\Debug\net6.0\Ejercicio_Vehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhon sebastian\Documents\SENA C#\diagrama_clases\obj\Debug\net6.0\Ejercicio_Vehiculos.AssemblyInfoInputs.cache
+C:\Users\jhon sebastian\Documents\SENA C#\diagrama_clases\obj\Debug\net6.0\Ejercicio_Vehiculos.AssemblyInfo.cs
+C:\Users\jhon sebastian\Documents\SENA C#\diagrama_clases\obj\Debug\net6.0\Ejercicio_Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\jhon sebastian\Documents\SENA C#\diagrama_clases\bin\Debug\net6.0\Ejercicio_Vehiculos.exe
+C:\Users\jhon sebastian\Documents\SENA C#\diagrama_clases\bin\Debug\net6.0\Ejercicio_Vehiculos.deps.json
+C:\Users\jhon sebastian\Documents\SENA C#\diagrama_clases\bin\Debug\net6.0\Ejercicio_Vehiculos.runtimeconfig.json
+C:\Users\jhon sebastian\Documents\SENA C#\diagrama_clases\bin\Debug\net6.0\Ejercicio_Vehiculos.dll
+C:\Users\jhon sebastian\Documents\SENA C#\diagrama_clases\bin\Debug\net6.0\Ejercicio_Vehiculos.pdb
+C:\Users\jhon sebastian\Documents\SENA C#\diagrama_clases\obj\Debug\net6.0\Ejercicio_Vehiculos.dll
+C:\Users\jhon sebastian\Documents\SENA C#\diagrama_clases\obj\Debug\net6.0\refint\Ejercicio_Vehiculos.dll
+C:\Users\jhon sebastian\Documents\SENA C#\diagrama_clases\obj\Debug\net6.0\Ejercicio_Vehiculos.pdb
+C:\Users\jhon sebastian\Documents\SENA C#\diagrama_clases\obj\Debug\net6.0\Ejercicio_Vehiculos.genruntimeconfig.cache
+C:\Users\jhon sebastian\Documents\SENA C#\diagrama_clases\obj\Debug\net6.0\ref\Ejercicio_Vehiculos.dll
