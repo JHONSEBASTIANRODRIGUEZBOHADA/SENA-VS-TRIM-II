@@ -1,0 +1,15 @@
+C:\Users\jhon sebastian\Documents\SENA C#\Modularizacion_Miscelanea\obj\Debug\net6.0\Modularizacion_Miscelanea.csproj.AssemblyReference.cache
+C:\Users\jhon sebastian\Documents\SENA C#\Modularizacion_Miscelanea\obj\Debug\net6.0\Modularizacion_Miscelanea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhon sebastian\Documents\SENA C#\Modularizacion_Miscelanea\obj\Debug\net6.0\Modularizacion_Miscelanea.AssemblyInfoInputs.cache
+C:\Users\jhon sebastian\Documents\SENA C#\Modularizacion_Miscelanea\obj\Debug\net6.0\Modularizacion_Miscelanea.AssemblyInfo.cs
+C:\Users\jhon sebastian\Documents\SENA C#\Modularizacion_Miscelanea\obj\Debug\net6.0\Modularizacion_Miscelanea.csproj.CoreCompileInputs.cache
+C:\Users\jhon sebastian\Documents\SENA C#\Modularizacion_Miscelanea\bin\Debug\net6.0\Modularizacion_Miscelanea.exe
+C:\Users\jhon sebastian\Documents\SENA C#\Modularizacion_Miscelanea\bin\Debug\net6.0\Modularizacion_Miscelanea.deps.json
+C:\Users\jhon sebastian\Documents\SENA C#\Modularizacion_Miscelanea\bin\Debug\net6.0\Modularizacion_Miscelanea.runtimeconfig.json
+C:\Users\jhon sebastian\Documents\SENA C#\Modularizacion_Miscelanea\bin\Debug\net6.0\Modularizacion_Miscelanea.dll
+C:\Users\jhon sebastian\Documents\SENA C#\Modularizacion_Miscelanea\bin\Debug\net6.0\Modularizacion_Miscelanea.pdb
+C:\Users\jhon sebastian\Documents\SENA C#\Modularizacion_Miscelanea\obj\Debug\net6.0\Modularizacion_Miscelanea.dll
+C:\Users\jhon sebastian\Documents\SENA C#\Modularizacion_Miscelanea\obj\Debug\net6.0\refint\Modularizacion_Miscelanea.dll
+C:\Users\jhon sebastian\Documents\SENA C#\Modularizacion_Miscelanea\obj\Debug\net6.0\Modularizacion_Miscelanea.pdb
+C:\Users\jhon sebastian\Documents\SENA C#\Modularizacion_Miscelanea\obj\Debug\net6.0\Modularizacion_Miscelanea.genruntimeconfig.cache
+C:\Users\jhon sebastian\Documents\SENA C#\Modularizacion_Miscelanea\obj\Debug\net6.0\ref\Modularizacion_Miscelanea.dll
