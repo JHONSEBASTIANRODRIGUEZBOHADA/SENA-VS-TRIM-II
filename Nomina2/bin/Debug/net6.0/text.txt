@@ -1,0 +1,10 @@
+
+
+Document: 1025520377
+First name: Jhon Sebastian
+Last name: Rodriguez Bohada
+Salary: 1000000
+Worked days: 30
+Accrued: 1000000
+Healt: 35314
+Pension: 35314

@@ -1,0 +1,15 @@
+C:\Users\jhon sebastian\Documents\SENA C#\Nomina2\obj\Debug\net6.0\Nomina2.csproj.AssemblyReference.cache
+C:\Users\jhon sebastian\Documents\SENA C#\Nomina2\obj\Debug\net6.0\Nomina2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhon sebastian\Documents\SENA C#\Nomina2\obj\Debug\net6.0\Nomina2.AssemblyInfoInputs.cache
+C:\Users\jhon sebastian\Documents\SENA C#\Nomina2\obj\Debug\net6.0\Nomina2.AssemblyInfo.cs
+C:\Users\jhon sebastian\Documents\SENA C#\Nomina2\obj\Debug\net6.0\Nomina2.csproj.CoreCompileInputs.cache
+C:\Users\jhon sebastian\Documents\SENA C#\Nomina2\bin\Debug\net6.0\Nomina2.exe
+C:\Users\jhon sebastian\Documents\SENA C#\Nomina2\bin\Debug\net6.0\Nomina2.deps.json
+C:\Users\jhon sebastian\Documents\SENA C#\Nomina2\bin\Debug\net6.0\Nomina2.runtimeconfig.json
+C:\Users\jhon sebastian\Documents\SENA C#\Nomina2\bin\Debug\net6.0\Nomina2.dll
+C:\Users\jhon sebastian\Documents\SENA C#\Nomina2\bin\Debug\net6.0\Nomina2.pdb
+C:\Users\jhon sebastian\Documents\SENA C#\Nomina2\obj\Debug\net6.0\Nomina2.dll
+C:\Users\jhon sebastian\Documents\SENA C#\Nomina2\obj\Debug\net6.0\refint\Nomina2.dll
+C:\Users\jhon sebastian\Documents\SENA C#\Nomina2\obj\Debug\net6.0\Nomina2.pdb
+C:\Users\jhon sebastian\Documents\SENA C#\Nomina2\obj\Debug\net6.0\Nomina2.genruntimeconfig.cache
+C:\Users\jhon sebastian\Documents\SENA C#\Nomina2\obj\Debug\net6.0\ref\Nomina2.dll
