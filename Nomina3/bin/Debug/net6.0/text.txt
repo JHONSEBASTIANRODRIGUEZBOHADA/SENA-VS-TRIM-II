@@ -1,0 +1,9 @@
+
+Document: 1
+First name: a
+Last name: f
+Salary: 0
+Worked days: 6
+Accrued: 0
+Healt: -937,2
+Pension: -937,2
